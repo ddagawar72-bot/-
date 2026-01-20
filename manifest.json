@@ -1,0 +1,16 @@
+
+{
+  "short_name": "레아헤어",
+  "name": "레아헤어 (Rhea Hair) 프리미엄 살롱",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#78350f",
+  "background_color": "#fafaf9"
+}

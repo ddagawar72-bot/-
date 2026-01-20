@@ -1,0 +1,12 @@
+{
+  "name": "레아헤어 (Rhea Hair)",
+  "short_name": "레아헤어",
+  "description": "레아헤어샵 전용 예약 및 AI 컬러 시뮬레이션 앱",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafaf9",
+  "theme_color": "#78350f",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
